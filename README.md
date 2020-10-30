@@ -1,1 +1,1 @@
-# JodoCovid
+# JogoCovid
